@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:0,LA 1
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:19:7863:41A:1:C00000:0:0:0:
+#EXTINF:0,LA 2
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7474:3F0:1:C00000:0:0:0:
+#EXTINF:0,ANTENA 3
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:19:7534:426:1:C00000:0:0:0:
+#EXTINF:0,CUATRO
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7792:424:1:C00000:0:0:0:
+#EXTINF:0,TELE 5
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:19:7536:426:1:C00000:0:0:0:
+#EXTINF:0,LA SEXTA
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:19:7537:426:1:C00000:0:0:0:
+#EXTINF:0,CANAL SUR
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7729:416:1:C00000:0:0:0:

@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTINF:0,Rakuten Top Free (GB)
+https://rakuten-topfree-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0,Rakuten Top Free (ES)
+https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:36,Rakuten Action Movies (GB)
+https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:36,Rakuten Action Movies (ES)
+https://rakuten-actionmovies-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:36,Rakuten Actionmovies (GB Subs) LG
+https://rakuten-actionmovies-1-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:0,Rakuten Actionmovies (ES Subs) LG
+https://rakuten-actionmovies-2-es.lg.wurl.tv/playlist.m3u8
+#EXTINF:0,Rakuten Comedy Movies (GB Subs) LG
+https://rakuten-comedymovies-1-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:0,Rakuten Comedy Movies (ES Subs) LG
+https://rakuten-comedymovies-2-es.lg.wurl.tv/playlist.m3u8
+#EXTINF:0,Rakuten Romance (GB)
+https://rakuten-romance-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0,Rakuten Romance (ES)
+https://rakuten-romance-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0,Rakuten Thriller (GB)
+https://rakuten-thriller-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0,Rakuten Thriller (ES)
+https://rakuten-thriller-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0,Rakuten Family (GB)
+https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0,Rakuten Family (ES)
+https://rakuten-family-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0,Rakuten TV Shows (GB)
+https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0,Rakuten TV Shows (ES)
+https://rakuten-tvshows-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0,Rakuten TV Shows (GB Subs) LG
+https://rakuten-tvshows-1-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:0,Rakuten TV Shows (ES Subs) LG
+https://rakuten-tvshows-2-es.lg.wurl.tv/playlist.m3u8
+#EXTINF:36,Rakuten Spotlight (GB)
+https://rakuten-spotlight-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:36,Rakuten Spotlight (ES)
+https://rakuten-spotlight-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:36,Rakuten Spotlight (GB Subs)
+https://rakuten-spotlight-1-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:0,Rakuten Spotlight (ES Subs) 
+https://rakuten-spotlight-2-es.lg.wurl.tv/playlist.m3u8
+#EXTINF:36,Rakuten Documentaries 1 (GB)
+https://rakuten-documentaries-8-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:33,Rakuten Documentaries 2 (GB)
+https://rakuten-documentaries-10-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:36,Rakuten Documentaries 3 (GB)
+https://rakuten-documentaries-13-eu.rakuten.wurl.tv/playlist.m3u8

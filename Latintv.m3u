@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:0, WOW TV
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+#EXTINF:0, Viwix TV
+https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8
+#EXTINF:0, Mega Cine TV
+https://cdn1.streamgato.us/megacinetv/megacinetv/playlist.m3u8
+#EXTINF:0, Planetatv Movie
+https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8
+#EXTINF:0, Planetatv Kids
+https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8
+#EXTINF:0, CINE.AR
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+#EXTINF:0, EvaStream
+https://stmv.panel.mivideo.pro/evastream/evastream/playlist.m3u8
+#EXTINF:0, Retro Play TV
+https://v4.tustreaming.cl/retroplaytv/index.m3u8
+#EXTINF:0, Retro TV Palmares
+http://tvretropalmares.com:8090/hls/envivo.m3u8
+#EXTINF:0, Retro Plus TV Señal 3
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
+#EXTINF:0, ZPTV
+https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/playlist.m3u8
+#EXTINF:0, Latinos Up! TV
+https://panel.streamingtv-mediacp.online:1936/8044/8044/playlist.m3u8
+#EXTINF:0, FMTV 1
+https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
+#EXTINF:0, Orbit TV
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
+#EXTINF:0, Telered
+https://59ef525c24caa.streamlock.net/ARBtv/teleplus/playlist.m3u8
+#EXTINF:0, Telesistema
+https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
+#EXTINF:0, Mix 24-7 Conciertos
+http://159.69.56.148:25461/live/M3UCanales4/4fr9vich/7.m3u8
+#EXTINF:0, Toca Hits - Mix 24-7 Top 100
+https://mix247.ml:444/TocaHits/Top100Mix24-7/playlist.m3u8
+#EXTINF:0, Toca Hits - Mix 24-7 VdjMix Retro
+http://159.69.56.148:25461/live/M3UCanales4/4fr9vich/1.m3u8
+#EXTINF:0, Toca Hits - Mix 24-7 Puro Rock
+http://159.69.56.148:25461/live/M3UCanales4/4fr9vich/25.m3u8
+#EXTINF:0, CBS News
+https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8

@@ -1,16 +1,25 @@
 #EXTM3U
+#EXTINF:0,Rockland TV (720p)
+#EXTGRP:Music
+http://api.new.livestream.com/accounts/22300522/events/6680139/live.m3u8
 #EXTINF:0,Sluhay Rock (720p)
 #EXTGRP:Music
 https://sluhay.by/live/Ch114pub/index.m3u8
 #EXTINF:0,Metal TV (720p)
 #EXTGRP:Music
 https://v2.catcast.tv/content/33816/index.m3u8
+#EXTINF:0,Classic Rock Network
+#EXTGRP:Music
+https://cdn17.fntvchannel.com/v1/master/02eeb1726c343dc9c30c32e93dee82013e157021/ClassicRock-Channel-Plex/index.m3u8?ads.X-PLEX-TOKEN=wD4GDewU9muH354wiCjs&amp;ads.CHANNEL=6196c8c01d310bf925e02615&amp;ads.DEVICE_ID=62274240-07e7-5d94-8dc8-ef68cf19e175&amp;ads.DNT=0
+#EXTINF:0,24/7 CONCIERTOS
+#EXTGRP:Music
+http://159.69.56.148:25461/live/M3UCanales4/4fr9vich/7.m3u8?PlaylistM3UCL
 #EXTINF:0,PURO ROCK
 #EXTGRP:Music
 http://159.69.56.148:25461/live/M3UCanales4/4fr9vich/25.m3u8?PlaylistM3UCL
 #EXTINF:0, RCK TV
 #EXTGRP:Music
 https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0,ROCK TV  RO(480p)
+#EXTINF:0,ROCK TV RO(480p)
 #EXTGRP:Music
 https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8
